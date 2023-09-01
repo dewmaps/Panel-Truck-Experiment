@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "title": "A screenplay of two scenes"
+        "title": "A screenplay of 2 scenes"
     },
 
     "sources": [
@@ -12,7 +12,7 @@
         {
             "id": "2",
             "type": "staticImage",
-            "imageEndpoint": "DCC_Lines/Image0_Detail.png"
+            "imageEndpoint": "DCC_Lines/Image0_Detail.jpg"
             }
     ],
     
