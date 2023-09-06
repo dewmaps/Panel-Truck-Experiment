@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "title": "A screenplay of 3 scenes"
+        "title": "A screenplay of three scenes"
     },
 
     "sources": [
@@ -43,10 +43,10 @@
         {
             "source": "3",
             "extent": [
-                83,
-                27,
-                519,
-                569
+                372,
+                94,
+                2076,
+                2276
             ],
             "caption": {
                 "text": "This using the iiif image endpoint"
