@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "title": "A screenplay of two scenes"
+        "title": "A screenplay of 2 scenes"
     },
 
     "sources": [
@@ -26,10 +26,10 @@
         {
             "source": "2",
             "extent": [
-                1020,
-                281,
-                10634,
-                4743
+                83,
+                27,
+                519,
+                569
             ],
             "caption": {
                 "text": "This is a map made with lines"
