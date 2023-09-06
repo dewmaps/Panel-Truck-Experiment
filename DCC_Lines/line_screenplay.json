@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "title": "A screenplay of dos scenes"
+        "title": "A screenplay of two scenes"
     },
 
     "sources": [
@@ -12,7 +12,7 @@
         {
             "id": "2",
             "type": "staticImage",
-            "imageFile": "DCC_Lines/Image0_Detail.jpg"
+            "imageFile": "https://collections.newberry.org/IIIF3/Image/2KXJ8ZSF22VV7/full/max/0/default.jpg"
             }
     ],
     
@@ -25,6 +25,12 @@
         },
         {
             "source": "2",
+            "extent": [
+                1020,
+                281,
+                10634,
+                4743
+            ],
             "caption": {
                 "text": "This is a map made with lines"
             }
