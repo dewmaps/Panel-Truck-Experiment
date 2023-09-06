@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "title": "A screenplay of three scenes"
+        "title": "A screenplay of 3 scenes"
     },
 
     "sources": [
@@ -12,7 +12,7 @@
         {
             "id": "2",
             "type": "staticImage",
-            "imageFile": "https://collections.newberry.org/IIIF3/Image/2KXJ8ZSF22VV7/full/max/0/default.jpg"
+            "imageFile": "https://collections.newberry.org/IIIF3/Image/2KXJ8ZSF22VV7/full/8000,/0/default.jpg"
             },
         {
             "id": "3",
