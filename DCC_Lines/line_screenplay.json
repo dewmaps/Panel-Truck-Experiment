@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "title": "A screenplay of 2 scenes"
+        "title": "A screenplay of 3 scenes"
     },
 
     "sources": [
@@ -13,7 +13,12 @@
             "id": "2",
             "type": "staticImage",
             "imageFile": "https://collections.newberry.org/IIIF3/Image/2KXJ8ZSF22VV7/full/max/0/default.jpg"
-            }
+            },
+        {
+            "id": "3",
+            "type": "iiifImage",
+            "imageEndpoint": "https://collections.newberry.org/IIIF3/Image/2KXJ8ZSF22VV7/info.json"
+        }
     ],
     
     "scenes": [
@@ -32,7 +37,19 @@
                 569
             ],
             "caption": {
-                "text": "This is a map made with lines"
+                "text": "This using the static image"
+            }
+        },
+        {
+            "source": "3",
+            "extent": [
+                83,
+                27,
+                519,
+                569
+            ],
+            "caption": {
+                "text": "This using the iiif image endpoint"
             }
         }
     ]
