@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "title": "A screenplay of 3 scenes"
+        "title": "A screenplay of two scenes"
     },
 
     "sources": [
@@ -13,12 +13,7 @@
             "id": "2",
             "type": "staticImage",
             "imageFile": "https://collections.newberry.org/IIIF3/Image/2KXJ8ZSF22VV7/full/8000,/0/default.jpg"
-            },
-        {
-            "id": "3",
-            "type": "iiifImage",
-            "imageEndpoint": "https://collections.newberry.org/IIIF3/Image/2KXJ8ZSF22VV7/info.json"
-        }
+            }
     ],
     
     "scenes": [
@@ -37,19 +32,7 @@
                 569
             ],
             "caption": {
-                "text": "This using the static image"
-            }
-        },
-        {
-            "source": "3",
-            "extent": [
-                372,
-                94,
-                2076,
-                2276
-            ],
-            "caption": {
-                "text": "This using the iiif image endpoint"
+                "text": "This using the static image type on the jpg url from the iiif manifest"
             }
         }
     ]
