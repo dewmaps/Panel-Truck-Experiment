@@ -1,0 +1,57 @@
+{
+	"metadata": {
+		"title": "Decoding Lines in a Map",
+		"author": "Dr. David Weimer"
+	},
+	"sources": [
+		{
+			"id": "1",
+			"type": "staticImage",
+			"imageFile": "https://collections.newberry.org/IIIF3/Image/2KXJ8ZSF2255O/full/max/0/default.jpg"
+		},
+		{
+			"id": "2",
+			"type": "iiifImage",
+			"imageEndpoint": "https://collections.newberry.org/IIIF3/Image/2KXJ8Z7PFKLD"
+		},
+		{
+			"id": "3",
+			"type": "iiifImage",
+			"imageEndpoint": "https://collections.newberry.org/IIIF3/Image/2KXJ8ZWQ2ML7"
+		}
+	],
+	"scenes": [
+		{
+			"source": "1",
+			"caption": {
+				"text": "uisng jpg hosted on github."
+			}
+		},
+		{
+			"source": "3",
+			"extent": "fit",
+			"caption": {
+				"text": "using iiif image endpoint"
+			}
+		},
+		{
+			"source": "1",
+			"extent": [
+				4010,
+				1413,
+				5010,
+				2413
+			],
+			"caption": {
+				"text": "test zoom with iiif image endpoint"
+			}
+		},
+		{
+			"source": "2",
+			"extent": "fit",
+			"caption": {
+				"text": "using iiif image endpoint with Nick's smaller image"
+			}
+		}
+	]
+}
