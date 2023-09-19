@@ -17,7 +17,7 @@
 		{
 			"id": "3",
 			"type": "iiifImage",
-			"imageEndpoint": "https://collections.newberry.org/IIIF3/Image/2KXJ8ZWQ2ML7"
+			"imageEndpoint": "https://collections.newberry.org/IIIF3/Image/2KXJ8ZSF2255O/4010,1413,1000,1000/max/0/default.jpg"
 		}
 	],
 	"scenes": [
@@ -31,7 +31,7 @@
 			"source": "3",
 			"extent": "fit",
 			"caption": {
-				"text": "using iiif image endpoint"
+				"text": "using iiif url"
 			}
 		},
 		{
