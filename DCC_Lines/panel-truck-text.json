@@ -1,7 +1,7 @@
 {
 	"metadata": {
 		"title": "Decoding Lines in a Map",
-		"author": "Dr. David Weimer"
+		"author": "David Weimer"
 	},
 	"sources": [
 		{
@@ -28,13 +28,6 @@
 			}
 		},
 		{
-			"source": "3",
-			"extent": "fit",
-			"caption": {
-				"text": "using iiif url"
-			}
-		},
-		{
 			"source": "1",
 			"extent": [
 				4010,
@@ -43,7 +36,13 @@
 				2413
 			],
 			"caption": {
-				"text": "test zoom with iiif image endpoint"
+				"text": "test with cropped jpg url"
+			}
+		},
+		{
+			"source": "3",
+			"caption": {
+				"text": "using iiif url"
 			}
 		},
 		{
