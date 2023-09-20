@@ -1,7 +1,7 @@
 {
 	"metadata": {
 		"title": "Decoding Lines in a Map",
-		"author": "Dr. Dave Weimer"
+		"author": "Dr. Dave E. Weimer"
 	},
 	"sources": [
 		{
@@ -12,7 +12,7 @@
 		{
 			"id": "2",
 			"type": "iiifImage",
-			"imageEndpoint": "https://collections.newberry.org/IIIF3/Image/2KXJ8Z7PFKLD.info.json"
+			"imageEndpoint": "https://collections.newberry.org/IIIF3/Image/2KXJ8ZSF2255O/info.json"
 		},
 		{
 			"id": "3",
@@ -48,14 +48,14 @@
 				2413
 			],
 			"caption": {
-				"text": "using iiif image endpoint with Nick's smaller image with crop"
+				"text": "using iiif image endpoint with crop"
 			}
 		},
 		{
 			"source": "2",
 			"extent": "fit",
 			"caption": {
-				"text": "using iiif image endpoint with Nick's smaller image"
+				"text": "using iiif image endpoint"
 			}
 		}
 	]
