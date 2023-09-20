@@ -85,9 +85,9 @@
 			"source": "4",
 			"extent": [
 				400,
-				100,
+				-300,
 				600,
-				300
+				-100
 			],
 			"caption": {
 				"text": "using iiif image endpoint with crop unt"
