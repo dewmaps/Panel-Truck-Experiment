@@ -49,9 +49,9 @@
 			"source": "2",
 			"extent": [
 				4010,
-				1413,
+				-1413,
 				5010,
-				2413
+				-2413
 			],
 			"caption": {
 				"text": "using iiif image endpoint with crop"
@@ -68,9 +68,9 @@
 			"source": "4",
 			"extent": [
 				2010,
-				1413,
+				-1413,
 				3010,
-				2413
+				-2413
 			],
 			"caption": {
 				"text": "using iiif image endpoint with crop with leventhal"
