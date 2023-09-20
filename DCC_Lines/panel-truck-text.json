@@ -1,7 +1,7 @@
 {
 	"metadata": {
 		"title": "Decoding Lines in a Map",
-		"author": "Dr. Dave Weimer"
+		"author": "Dr. David Weimer"
 	},
 	"sources": [
 		{
@@ -22,12 +22,17 @@
 		{
 			"id": "4",
 			"type": "iiifImage",
-			"imageEndpoint": "https://collections.newberry.org/IIIF3/Image/2KXJ8ZSF2255O/4010,1413,1000,1000/max/0/default.jpg"
+			"imageEndpoint": "https://digital.library.unt.edu/iiif/ark:/67531/metadc891/m1/1/info.json",
+			"moreInfo": "https://digital.library.unt.edu/ark:/67531/metadc891/m1/1/"
 		},
 		{
 			"id": "5",
-			"type": "iiifImage",
-			"imageEndpoint": "https://stacks.stanford.edu/image/iiif/degraded/fd394zm8539/10043001/info.json"
+			"type": "iiifManifest",
+			"manifest": "https://www.digitalcommonwealth.org/search/commonwealth:6969z354f/manifest.json",
+			"sequence": 0,
+			"canvas": 1,
+			"image": 0,
+			"moreInfo": "https://collections.leventhalmap.org/search/commonwealth:6969z354f"
 		}
 		
 	],
@@ -70,34 +75,35 @@
 			}
 		},
 		{
+			"source": "4",
+			"caption": {
+				"title": "IIIF Single Image",
+				"text": "If we don't want to load from a Manifest, we can pass an Image endpoint directly, instead"
+			  }
+		},
+		{
+			"source": "4",
+			"extent": [
+				400,
+				100,
+				600,
+				300
+			],
+			"caption": {
+				"text": "using iiif image endpoint with crop unt"
+			}
+		},
+		{
 			"source": "5",
 			"extent": [
-				1801,
-				1255,
-				2801,
-				2255
-			],
-			"caption": {
-				"text": "stanford iiif image endpoint"
-			}
-		},
-		{
-			"source": "4",
-			"extent": [
-				1600,
-				-3931,
-				1700,
-				-2931
-			],
-			"caption": {
-				"text": "using iiif image endpoint with crop with leventhal"
-			}
-		},
-		{
-			"source": "4",
-			"extent": "fit",
-			"caption": {
-				"text": "using iiif image endpoint with leventhal"
+				50,
+				-1300,
+				1200,
+				-800
+			  ],
+			  "moreInfo": "https://collections.leventhalmap.org/search/commonwealth:6969z354f",
+			  "caption": {
+				"text": "And now we're panning around that image. You can pan around as much as you like, at any zoom level."
 			}
 		}
 	]
