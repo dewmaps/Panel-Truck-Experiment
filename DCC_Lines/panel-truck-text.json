@@ -16,7 +16,7 @@
 		},
 		{
 			"id": "3",
-			"type": "iiifImage",
+			"type": "staticImage",
 			"imageEndpoint": "https://collections.newberry.org/IIIF3/Image/2KXJ8ZSF2255O/4010,1413,1000,1000/max/0/default.jpg"
 		}
 	],
