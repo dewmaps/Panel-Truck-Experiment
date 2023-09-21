@@ -15,16 +15,16 @@
 			"source": "1",
 			"moreInfo": "https://collections.newberry.org/asset-management/2KXJ8ZSF2255O",
 			"caption": {
-				"text": "Look at the map \"The Travellers Pocket Map of Ohio.\" Without looking too closely, you can probably understand that the colors are helping you see the state’s counties. You can also recognize a light coloring to show the water in Lake Erie. But what about all the different lines in the map? When you look at a detail of part of Ohio [Image 0], it can seem like a confusing mess of lines with different designs, different weights, and different patterns. By untangling all these different kinds of lines, we can understand how this map works and, in turn, how its elements work together to tell a story about Ohio."
+				"text": "Look at the map \"The Travellers Pocket Map of Ohio.\" Without looking too closely, you can probably understand that the colors are helping you see the state’s counties. You can also recognize a light coloring to show the water in Lake Erie."
 			}
 		},
 		{
 			"source": "1",
 			"extent": [
 				4429,
-				3480,
+				-4270,
 				5239,
-				4270
+				-3480
 				],
 			"moreInfo": "https://collections.newberry.org/asset-management/2KXJ8ZSF2255O",
 			"caption": {
