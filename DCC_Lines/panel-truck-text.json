@@ -20,23 +20,22 @@
 		},
 		{
 			"source": "1",
-			"moreInfo": "https://collections.newberry.org/asset-management/2KXJ8ZSF2255O",
-			"caption": {
-				"text": "First, we can identify the different kinds of lines on the map:"
-			}
-		},
-		{
-			"source": "1",
 			"extent": [
 				4429,
 				3480,
 				5239,
 				4270
-				]
-				,
+				],
 			"moreInfo": "https://collections.newberry.org/asset-management/2KXJ8ZSF2255O",
 			"caption": {
-				"text": "1. dotted line in Lake Erie"
+				"text": "But what about all the different lines in the map? When you look at a detail of part of Ohio it can seem like a confusing mess of lines with different designs, different weights, and different patterns. By untangling all these different kinds of lines, we can understand how this map works and, in turn, how its elements work together to tell a story about Ohio."
+			}
+		},
+		{
+			"source": "1",
+			"moreInfo": "https://collections.newberry.org/asset-management/2KXJ8ZSF2255O",
+			"caption": {
+				"text": "First, we can identify the different kinds of lines on the map:"
 			}
 		},
 		{
@@ -50,7 +49,7 @@
 				,
 			"moreInfo": "https://collections.newberry.org/asset-management/2KXJ8ZSF2255O",
 			"caption": {
-				"text": "2. thicker dotted lines"
+				"text": "1. dotted line in Lake Erie"
 			}
 		},
 		{
@@ -63,7 +62,7 @@
 				],
 			"moreInfo": "https://collections.newberry.org/asset-management/2KXJ8ZSF2255O",
 			"caption": {
-				"text": "3. dotted lines in Ohio along borders of color"
+				"text": "2. thicker dotted lines"
 			}
 		},
 		{
@@ -76,7 +75,7 @@
 				],
 				"moreInfo": "https://collections.newberry.org/asset-management/2KXJ8ZSF2255O",
 			"caption": {
-				"text": "4. double lines emanating from cities in Ohio"
+				"text": "3. dotted lines in Ohio along borders of color"
 			  }
 		},
 		{
@@ -89,7 +88,7 @@
 				],
 			"moreInfo": "https://collections.newberry.org/asset-management/2KXJ8ZSF2255O",
 			"caption": {
-				"text": "5. double lines with a serrated line"
+				"text": "4. double lines emanating from cities in Ohio"
 			}
 		},
 		{
@@ -100,6 +99,20 @@
 				5830,
 				4169
 				],
+			"moreInfo": "https://collections.newberry.org/asset-management/2KXJ8ZSF2255O",
+			"caption": {
+				"text": "5. double lines with a serrated line6. double lines that are filled in"
+			}
+		},
+		{
+			"source": "1",
+			"extent": [
+				2489,
+				5010,
+				2979,
+				5300
+				]
+				,
 			"moreInfo": "https://collections.newberry.org/asset-management/2KXJ8ZSF2255O",
 			"caption": {
 				"text": "6. double lines that are filled in"
