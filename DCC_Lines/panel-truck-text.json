@@ -8,102 +8,101 @@
 			"id": "1",
 			"type": "staticImage",
 			"imageFile": "https://collections.newberry.org/IIIF3/Image/2KXJ8ZSF2255O/full/max/0/default.jpg"
-		},
-		{
-			"id": "2",
-			"type": "iiifImage",
-			"imageEndpoint": "https://collections.newberry.org/IIIF3/Image/2KXJ8ZSF2255O/info.json"
-		},
-		{
-			"id": "3",
-			"type": "staticImage",
-			"imageEndpoint": "https://collections.newberry.org/IIIF3/Image/2KXJ8ZSF2255O/4010,1413,1000,1000/max/0/default.jpg"
-		},
-		{
-			"id": "4",
-			"type": "iiifImage",
-			"imageEndpoint": "https://digital.library.unt.edu/iiif/ark:/67531/metadc891/m1/1/info.json",
-			"moreInfo": "https://digital.library.unt.edu/ark:/67531/metadc891/m1/1/"
-		},
-		{
-			"id": "5",
-			"type": "iiifManifest",
-			"manifest": "https://www.digitalcommonwealth.org/search/commonwealth:6969z354f/manifest.json",
-			"sequence": 0,
-			"canvas": 1,
-			"image": 0,
-			"moreInfo": "https://collections.leventhalmap.org/search/commonwealth:6969z354f"
-		}
-		
+		}	
 	],
 	"scenes": [
 		{
 			"source": "1",
+			"moreInfo": "https://collections.newberry.org/asset-management/2KXJ8ZSF2255O",
 			"caption": {
-				"text": "uisng jpg hosted on github."
+				"text": "Look at the map \"The Travellers Pocket Map of Ohio.\" Without looking too closely, you can probably understand that the colors are helping you see the state’s counties. You can also recognize a light coloring to show the water in Lake Erie. But what about all the different lines in the map? When you look at a detail of part of Ohio [Image 0], it can seem like a confusing mess of lines with different designs, different weights, and different patterns. By untangling all these different kinds of lines, we can understand how this map works and, in turn, how its elements work together to tell a story about Ohio."
+			}
+		},
+		{
+			"source": "1",
+			"moreInfo": "https://collections.newberry.org/asset-management/2KXJ8ZSF2255O",
+			"caption": {
+				"text": "First, we can identify the different kinds of lines on the map:"
 			}
 		},
 		{
 			"source": "1",
 			"extent": [
-				4010,
-				1413,
-				5010,
-				2413
-			],
+				4429,
+				3480,
+				5239,
+				4270
+				]
+				,
+			"moreInfo": "https://collections.newberry.org/asset-management/2KXJ8ZSF2255O",
 			"caption": {
-				"text": "test with cropped jpg url"
+				"text": "1. dotted line in Lake Erie"
 			}
 		},
 		{
-			"source": "2",
+			"source": "1",
 			"extent": [
-				4010,
-				-2413,
-				5010,
-				-1413
-			],
+				4079,
+				1919,
+				4488,
+				2348
+				]
+				,
+			"moreInfo": "https://collections.newberry.org/asset-management/2KXJ8ZSF2255O",
 			"caption": {
-				"text": "using iiif image endpoint with crop"
+				"text": "2. thicker dotted lines"
 			}
 		},
 		{
-			"source": "2",
-			"extent": "fit",
+			"source": "1",
+			"extent": [
+				5510,
+				4189,
+				5769,
+				4688
+				],
+			"moreInfo": "https://collections.newberry.org/asset-management/2KXJ8ZSF2255O",
 			"caption": {
-				"text": "using iiif image endpoint"
+				"text": "3. dotted lines in Ohio along borders of color"
 			}
 		},
 		{
-			"source": "4",
+			"source": "1",
+			"extent": [
+				4710,
+				4540,
+				4949,
+				4819
+				],
+				"moreInfo": "https://collections.newberry.org/asset-management/2KXJ8ZSF2255O",
 			"caption": {
-				"title": "IIIF Single Image",
-				"text": "If we don't want to load from a Manifest, we can pass an Image endpoint directly, instead"
+				"text": "4. double lines emanating from cities in Ohio"
 			  }
 		},
 		{
-			"source": "4",
+			"source": "1",
 			"extent": [
-				400,
-				-300,
-				600,
-				-100
-			],
+				3599,
+				4710,
+				3858,
+				4989
+				],
+			"moreInfo": "https://collections.newberry.org/asset-management/2KXJ8ZSF2255O",
 			"caption": {
-				"text": "using iiif image endpoint with crop unt"
+				"text": "5. double lines with a serrated line"
 			}
 		},
 		{
-			"source": "5",
+			"source": "1",
 			"extent": [
-				50,
-				-1300,
-				1200,
-				-800
-			  ],
-			  "moreInfo": "https://collections.leventhalmap.org/search/commonwealth:6969z354f",
-			  "caption": {
-				"text": "And now we're panning around that image. You can pan around as much as you like, at any zoom level."
+				5430,
+				3910,
+				5830,
+				4169
+				],
+			"moreInfo": "https://collections.newberry.org/asset-management/2KXJ8ZSF2255O",
+			"caption": {
+				"text": "6. double lines that are filled in"
 			}
 		}
 	]
