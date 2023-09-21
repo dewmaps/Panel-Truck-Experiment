@@ -178,7 +178,7 @@
 				],
 			"moreInfo": "https://collections.newberry.org/asset-management/2KXJ8ZSF2255O",
 			"caption": {
-				"text": "11. vertical and horizontal lines connecting the map’s edges? "
+				"text": "11. vertical and horizontal lines connecting the map’s edges"
 			}
 		},
 		{
@@ -224,7 +224,7 @@
 			"source": "1",
 			"moreInfo": "https://collections.newberry.org/asset-management/2KXJ8ZSF2255O",
 			"caption": {
-				"text": "That is a lot of different lines!<br>To understand how they all work, we can start to categorize them by how they function."
+				"text": "That is a lot of different lines! To understand how they all work, we can start to categorize them by how they function."
 			}
 		},
 		{
@@ -316,7 +316,28 @@
 			"source": "1",
 			"moreInfo": "https://collections.newberry.org/asset-management/2KXJ8ZSF2255O",
 			"caption": {
-				"text": "**Question for discussion**: As you analyze a map and start to piece together how all the different elements of the map are working together?, you will be able to make your own arguments about how and why a map is telling its story. Consider, for instance, the following questions:<br> * What aspects of the US does this map call the most attention to? What does the document prioritize? * What kind of story is this map telling? Who is left out of that story? What sorts of things are not included? * Do the lines on the map support your argument about the story this map is telling? Besides the lines, what other elements of the map support your argument about the story this map is telling?"
+				"text": "**Question for discussion**: As you analyze a map and start to piece together how all the different elements of the map are working together?, you will be able to make your own arguments about how and why a map is telling its story. Consider, for instance, the following questions:"
+			}
+		},
+		{
+			"source": "1",
+			"moreInfo": "https://collections.newberry.org/asset-management/2KXJ8ZSF2255O",
+			"caption": {
+				"text": "What aspects of the US does this map call the most attention to? What does the document prioritize?"
+			}
+		},
+		{
+			"source": "1",
+			"moreInfo": "https://collections.newberry.org/asset-management/2KXJ8ZSF2255O",
+			"caption": {
+				"text": "What kind of story is this map telling? Who is left out of that story? What sorts of things are not included?"
+			}
+		},
+		{
+			"source": "1",
+			"moreInfo": "https://collections.newberry.org/asset-management/2KXJ8ZSF2255O",
+			"caption": {
+				"text": "Do the lines on the map support your argument about the story this map is telling? Besides the lines, what other elements of the map support your argument about the story this map is telling?"
 			}
 		}
 	]
